@@ -9,7 +9,7 @@
     "dist-mac": "build -m"
   },
   "dependencies": {
-    "electron": "^9.4.0",
+    "electron": "^11.5.0",
     "electron-builder": "^22.3.2"
   },
   "build": {
